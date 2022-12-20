@@ -1,4 +1,11 @@
-# airline_performance
+# Airline_performance
+
+aim: Ranking airline based on their performance
+- per month
+- sum of the flight
+- average delay
+- percentage on time status
+- ...
 
 It is mainly regarding the data sourcing 
 ---
